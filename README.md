@@ -18,7 +18,7 @@ With over **400+ hours of professional security training**, I blend secure codin
 `Burp Suite` • `Nmap` • `OWASP ZAP` • `Wireshark` • `Metasploit` • `Linux` • `Kali` • `MySQL`
 
 **Frameworks:**  
-`React` • `Laravel` • `Next.js` • `Express` • `TailwindCSS` • `Bootstrap`
+`React` • `Laravel` • `Next.js` • `Express` • `TailwindCSS` • `Django` • `BootStrap` • `Flask` 
 
 ---
 
@@ -44,10 +44,9 @@ With over **400+ hours of professional security training**, I blend secure codin
 ### 💼 Featured Projects
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🔐 Security Scanner](https://github.com/kousha-dev/network-scanner) | CLI tool for network recon and banner analysis | Python |
-| [🧑‍💻 Freelance Marketplace](https://github.com/kousha-dev/freelance-marketplace) | Role-based PHP web app with login/auth & bidding system | PHP, MySQL |
-| [📊 Job Tracker](https://github.com/kousha-dev/job-tracker) | CLI tracker with analytics for job applications | Python |
-| [⚙️ Auth System](https://github.com/kousha-dev/auth-system) | Multi-role authentication in raw PHP & Laravel | PHP, Laravel |
+| [🔐 Security Scanner](https://github.com/Koi725/network_scanner) | CLI tool for network recon and banner analysis | Python |
+| [📊 Job Tracker](https://github.com/Koi725/Advanced-Job_tracker-py) | CLI tracker with analytics for job applications | Python |
+| [⚙️ Auth System](https://github.com/Koi725/multi-role-auth-php) | Multi-role authentication in raw PHP & Laravel | PHP, Laravel |
 
 ---
 
