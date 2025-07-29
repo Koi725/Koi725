@@ -1,42 +1,64 @@
-🚀 Kousha | Cybersecurity Specialist & Developer
+<h1 align="center">🚀 Kousha | Cybersecurity Specialist & Full-Stack Developer</h1>
+<h3 align="center">🛡️ Web Security | Bug Bounty | Secure Web Development</h3>
 
-🛡️ About Me
+---
 
-Hey there! I'm Kousha, a passionate Cybersecurity Researcher & Developer specializing in Web Security, Bug Bounty, and Advanced Front-End Development. I have over 400+ hours of professional security training and solid programming experience in Bash, Python, React, and more.
+### 👋 About Me
+I'm **Kousha**, a passionate Cybersecurity Researcher & Developer with deep expertise in **Web Application Security**, **Bug Bounty**, and **Advanced Front-End & Back-End Development**.  
+With over **400+ hours of professional security training**, I blend secure coding practices with modern development stacks like **React**, **PHP**, and **Python** to build and break systems.
 
-💻 Programming: Bash, Python, JavaScript (React), Java, C++, C
+---
 
-🔥 Cybersecurity Expertise: Web App Pentesting, Ethical Hacking, Red Teaming
+### 🧰 Tech Stack
 
-🏆 Certifications: CEH v10-12, PWK, OWASP 2021-2024, Red Team Project, and more
+**Languages:**  
+`Python` • `Bash` • `JavaScript (React)` • `PHP` • `C/C++` • `Java`
 
-🌍 Platforms: Bugcrowd | HackerOne | TryHackMe | OSINT Framework
+**Cyber & Dev Tools:**  
+`Burp Suite` • `Nmap` • `OWASP ZAP` • `Wireshark` • `Metasploit` • `Linux` • `Kali` • `MySQL`
 
-📧 How to Reach Me: LinkedIn | Email
+**Frameworks:**  
+`React` • `Laravel` • `Next.js` • `Express` • `TailwindCSS` • `Bootstrap`
 
-🔥 My Top Skills
+---
 
-Programming & Development
+### 🔥 Cybersecurity Expertise
+- 🔓 Web App Pentesting (XSS, SQLi, IDOR, etc.)
+- 🎯 Red Teaming & Recon
+- 🐞 Bug Bounty (Bugcrowd, HackerOne)
+- 🧠 OSINT & Scripting for Hackers
+- 📚 Always learning the newest CVEs and techniques
 
-   
+---
 
-Cybersecurity & Ethical Hacking
+### 🏆 Certifications & Trainings
+- ✅ CEH v10, v11, v12
+- ✅ PWK / OSCP prep
+- ✅ OWASP Top 10 (2021–2024)
+- ✅ Red Team Project
+- ✅ Python for Bug Hunters
+- ✅ LPIC-1, Network+, Linux Essentials
 
-  
+---
 
-🏆 Certifications & Training
+### 💼 Featured Projects
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🔐 Security Scanner](https://github.com/kousha-dev/network-scanner) | CLI tool for network recon and banner analysis | Python |
+| [🧑‍💻 Freelance Marketplace](https://github.com/kousha-dev/freelance-marketplace) | Role-based PHP web app with login/auth & bidding system | PHP, MySQL |
+| [📊 Job Tracker](https://github.com/kousha-dev/job-tracker) | CLI tracker with analytics for job applications | Python |
+| [⚙️ Auth System](https://github.com/kousha-dev/auth-system) | Multi-role authentication in raw PHP & Laravel | PHP, Laravel |
 
-✅ CEH v10, v11, v12
+---
 
-✅ PWK (Penetration Testing with Kali Linux)
+### 📫 Let's Connect!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kousha-rezaei-45986434a/)
+- 📧 [Email](mailto:kosharezae@yahoo.com)
 
-✅ OWASP Top 10 (2021, 2022, 2023, 2024)
+---
 
-✅ Red Team Project | Scripting for Hackers | Python for Bug Hunters
+### 📊 GitHub Stats
 
-✅ Network+ | LPIC-1 | Linux Essentials
-
-💌 Let's Connect!
-
-🔗 LinkedIn: https://www.linkedin.com/in/kousha-rezaei-45986434a/📧 Email: kosharezae@yahoo.com
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kousha-dev&show_icons=true&theme=tokyonight" />
+</p>
