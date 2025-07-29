@@ -55,9 +55,3 @@ With over **400+ hours of professional security training**, I blend secure codin
 - 📧 [Email](mailto:kosharezae@yahoo.com)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kousha-dev&show_icons=true&theme=tokyonight" />
-</p>
