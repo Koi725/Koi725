@@ -2,98 +2,110 @@
   
 # Kousha Rezaei
 
-**Cybersecurity Specialist • Full-Stack Developer • DevOps Engineer**
+**Full-Stack Developer · Cybersecurity Specialist · DevOps Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kousha-rezaei-45986434a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.kousharezaei.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kosharezae@yahoo.com)
+[![Portfolio](https://img.shields.io/badge/kousharezaei.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kousharezaei.dev)
+[![AI Chat](https://img.shields.io/badge/Try_My_AI-6366F1?style=for-the-badge&logo=openai&logoColor=white)](https://www.kousharezaei.dev/en/ai)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kousha.rezaei@ua.pt)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Web+Application+Security+Expert;Full-Stack+Developer;DevOps+%26+Cloud+Infrastructure;Bug+Bounty+Hunter;Building+Secure+Systems" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🎯 About Me
-
-Cybersecurity professional and Full-Stack Developer with **400+ hours of security training** and hands-on experience building and securing production systems. I specialize in bridging the gap between **security** and **development**, ensuring applications are built secure from the ground up.
-
-Currently working on **enterprise-grade applications** involving SSO implementations, containerized microservices, and cloud infrastructure at scale.
-
-<div align="center">
-
-```
-🔐 Security First  •  ⚡ Performance Focused  •  🏗️ Scalable Architecture
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+secure+%26+intelligent+products;React+%7C+Next.js+%7C+Django+%7C+Docker;Security-first+architecture;AI+integration+%26+prompt+engineering" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
+## About
+
+I build production-grade web platforms from frontend to infrastructure with a security-first mindset. Based in Portugal, I work across the full stack — React, Next.js, Django, Docker, and cloud — plus AI integration and data engineering with tools like Trino and S3.
+
+I also built and maintain my own AI-powered chatbot, live on my site.
+
+```
+🔐 Security First  ·  ⚡ Performance Focused  ·  🤖 AI Integrated  ·  🏗️ Scalable Architecture
+```
+
+---
+
+## Tech Stack
 
 <details open>
-<summary><b>Languages & Frameworks</b></summary>
+<summary><b>Frontend</b></summary>
 <br>
 
-| Category | Technologies |
-|----------|-------------|
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Systems** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>DevOps & Cloud Infrastructure</b></summary>
+<summary><b>Backend & Data</b></summary>
 <br>
 
-| Category | Technologies |
-|----------|-------------|
-| **Containerization** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Web Servers & Proxy** | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Reverse Proxy](https://img.shields.io/badge/Reverse_Proxy-009639?style=flat-square&logo=nginx&logoColor=white) ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-721412?style=flat-square&logo=letsencrypt&logoColor=white) |
-| **Cloud & Storage** | ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white) |
-| **Authentication** | ![SSO](https://img.shields.io/badge/SSO-4285F4?style=flat-square&logo=google&logoColor=white) ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>Security & Pentesting</b></summary>
+<summary><b>DevOps & Cloud</b></summary>
 <br>
 
-| Category | Technologies |
-|----------|-------------|
-| **Offensive** | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white) |
-| **Analysis** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white) |
-| **Environment** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0A0?style=flat-square&logo=linux&logoColor=white) |
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Security & AI</b></summary>
+<br>
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white)
 
 </details>
 
 ---
 
-## 🔥 Core Expertise
+## What I Do
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🛡️ Security
-- **Web App Pentesting** — XSS, SQLi, IDOR, SSRF, RCE
-- **Bug Bounty** — Active on HackerOne & Bugcrowd
-- **Red Teaming** — Reconnaissance & exploitation
-- **OSINT** — Intelligence gathering & analysis
-- **Security Hardening** — Server & container security
+- Web application pentesting (XSS, SQLi, IDOR, SSRF, RCE)
+- Security audits and system hardening
+- OWASP Top 10 compliance
+- Server and container security
+- Reconnaissance and vulnerability assessment
 
 </td>
 <td width="50%">
 
-### ⚙️ DevOps & Infrastructure
-- **Containerization** — Docker, Kubernetes, Docker Swarm
-- **Reverse Proxy** — Nginx, SSL termination, load balancing
-- **SSO Integration** — OAuth2, SAML, enterprise auth
-- **Cloud Infrastructure** — AWS S3, distributed storage
-- **Big Data** — Trino DB, data lake architecture
+### ⚙️ Development & DevOps
+- Full-stack web apps (React, Next.js, Django)
+- AI chatbot development and integration
+- Docker containerization and orchestration
+- CI/CD pipelines and cloud deployment
+- Data engineering (Trino, S3, data lakes)
 
 </td>
 </tr>
@@ -101,50 +113,45 @@ Currently working on **enterprise-grade applications** involving SSO implementat
 
 ---
 
-## 📜 Certifications
+## Featured Projects
 
 <div align="center">
 
-| Security | Systems | Cloud & DevOps |
-|:--------:|:-------:|:--------------:|
-| ![CEH](https://img.shields.io/badge/CEH_v10--v12-FF0000?style=for-the-badge) | ![LPIC-1](https://img.shields.io/badge/LPIC--1-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Docker](https://img.shields.io/badge/Docker_Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![OSCP](https://img.shields.io/badge/OSCP_Prep-000000?style=for-the-badge) | ![Network+](https://img.shields.io/badge/Network+-007ACC?style=for-the-badge&logo=comptia&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/K8s_Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux_Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| **🌐 [kousharezaei.dev](https://www.kousharezaei.dev)** | Personal platform with AI chatbot, multilingual support, auth system, and admin dashboard. Dockerized microservices with zero-downtime deployment. | `Next.js` `Django` `Docker` `PostgreSQL` `Redis` `Nginx` |
+| **🤖 [KoushaAI](https://www.kousharezaei.dev/en/ai)** | Custom AI assistant built on Anthropic's Claude API with streaming responses, conversation history, file uploads, and folder organization. | `Django` `Anthropic API` `R2 Storage` `WebSocket` |
+| **🔐 [Network Scanner](https://github.com/Koi725/network_scanner)** | CLI tool for network reconnaissance, port scanning, and service enumeration. | `Python` `Nmap` `Scapy` |
+| **📊 [Job Tracker Pro](https://github.com/Koi725/Advanced-Job_tracker-py)** | Full-featured CLI application with analytics, exports, and tracking. | `Python` `SQLite` `Rich` |
+| **⚙️ [Multi-Role Auth](https://github.com/Koi725/multi-role-auth-php)** | Enterprise-grade authentication with RBAC and security best practices. | `PHP` `Laravel` `MySQL` |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Current Focus
 
-<div align="center">
-
-| Project | Description | Tech Stack | Link |
-|:--------|:------------|:-----------|:----:|
-| **🔐 Network Scanner** | Advanced CLI tool for network reconnaissance, port scanning, and service enumeration | `Python` `Nmap` `Scapy` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Koi725/network_scanner) |
-| **📊 Job Tracker Pro** | Full-featured CLI application with analytics, exports, and tracking capabilities | `Python` `SQLite` `Rich` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Koi725/Advanced-Job_tracker-py) |
-| **⚙️ Multi-Role Auth** | Enterprise-grade authentication system with RBAC and security best practices | `PHP` `Laravel` `MySQL` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Koi725/multi-role-auth-php) |
-| **🌐 Portfolio** | Personal portfolio with blog, multilingual support, and admin dashboard | `Next.js` `Django` `Docker` | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel)](https://www.kousharezaei.dev) |
-
-</div>
+- 🔧 Building AI-powered products with real-world utility
+- 🔐 Implementing security-first architecture in every project
+- ☁️ Scaling containerized infrastructure on cloud
+- 📊 Data engineering with Trino and distributed storage
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect
+### Let's Connect
 
-Building secure systems and breaking insecure ones.  
-Always open to collaboration on security research and development projects.
+Building secure systems and intelligent products.  
+Always open to collaboration.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kousha-rezaei-45986434a/)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kosharezae@yahoo.com)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.kousharezaei.dev)
+[![Portfolio](https://img.shields.io/badge/kousharezaei.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kousharezaei.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Koi725)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351910856484)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kousha.rezaei@ua.pt)
 
 ---
 
 <img src="https://komarev.com/ghpvc/?username=Koi725&color=6366F1&style=for-the-badge&label=Profile+Views" />
-
-*"Security is not a product, but a process."* — Bruce Schneier
 
 </div>
