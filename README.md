@@ -1,14 +1,18 @@
 <div align="center">
-  
+
+<a href="https://www.kousharezaei.dev">
+<img src="https://raw.githubusercontent.com/Koi725/Koi725/main/banner.svg" alt="Kousha Rezaei — Full-Stack Developer · AI Engineer · Security" width="100%" />
+</a>
+
 # Kousha Rezaei
 
-**Full-Stack Developer · Cybersecurity Specialist · DevOps Engineer**
+**Full-Stack Developer · AI Engineer · Cybersecurity & DevOps**
 
 [![Portfolio](https://img.shields.io/badge/kousharezaei.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kousharezaei.dev)
 [![AI Chat](https://img.shields.io/badge/Try_My_AI-6366F1?style=for-the-badge&logo=openai&logoColor=white)](https://www.kousharezaei.dev/en/ai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kousha.rezaei@ua.pt)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+secure+%26+intelligent+products;React+%7C+Next.js+%7C+Django+%7C+Docker;Security-first+architecture;AI+integration+%26+prompt+engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=650&lines=Building+secure+%26+intelligent+products;Python+%7C+FastAPI+%7C+Next.js+%7C+Docker;AI+agent+evaluation+%26+RLHF%2FSFT;Security-first+architecture" alt="Typing SVG" />
 
 </div>
 
@@ -16,13 +20,12 @@
 
 ## About
 
-I build production-grade web platforms from frontend to infrastructure with a security-first mindset. Based in Portugal, I work across the full stack — React, Next.js, Django, Docker, and cloud — plus AI integration and data engineering with tools like Trino and S3.
+I build production-grade web platforms from frontend to infrastructure with a security-first mindset, and I work hands-on with AI training and evaluation. Based in Portugal, I work across the full stack — React, Next.js, Python, Django, FastAPI, Docker, and cloud — plus AI integration, agent evaluation, and data engineering with tools like Trino and S3.
 
-I also built and maintain my own AI-powered chatbot, live on my site.
+I'm the founder of **AxionAI**, a production AI SaaS, and I contract on **AI agent evaluation (RLHF/SFT)** through Outlier (Scale AI). I also built and maintain my own AI-powered chatbot, live on my site.
 
-```
-🔐 Security First  ·  ⚡ Performance Focused  ·  🤖 AI Integrated  ·  🏗️ Scalable Architecture
-```
+🔐 Security First · ⚡ Performance Focused · 🤖 AI Integrated · 🏗️ Scalable Architecture
+
 
 ---
 
@@ -46,8 +49,8 @@ I also built and maintain my own AI-powered chatbot, live on my site.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
@@ -76,9 +79,9 @@ I also built and maintain my own AI-powered chatbot, live on my site.
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![RLHF](https://img.shields.io/badge/RLHF_%2F_SFT-6366F1?style=flat-square&logo=probot&logoColor=white)
 
 </details>
 
@@ -90,22 +93,22 @@ I also built and maintain my own AI-powered chatbot, live on my site.
 <tr>
 <td width="50%">
 
-### 🛡️ Security
-- Web application pentesting (XSS, SQLi, IDOR, SSRF, RCE)
-- Security audits and system hardening
-- OWASP Top 10 compliance
-- Server and container security
-- Reconnaissance and vulnerability assessment
+### 🤖 AI & Machine Learning
+- AI agent evaluation (RLHF/SFT) via Outlier (Scale AI)
+- Agent trajectory analysis & rubric-based scoring
+- Prompt engineering across multiple domains
+- LLM integration (Anthropic, OpenAI, Groq)
+- Grounding outputs in real database state (SQL)
 
 </td>
 <td width="50%">
 
 ### ⚙️ Development & DevOps
-- Full-stack web apps (React, Next.js, Django)
-- AI chatbot development and integration
-- Docker containerization and orchestration
-- CI/CD pipelines and cloud deployment
+- Full-stack web apps (React, Next.js, Django, FastAPI)
+- Docker containerization & orchestration
+- CI/CD pipelines & zero-downtime deployment
 - Data engineering (Trino, S3, data lakes)
+- Security-first architecture & system hardening
 
 </td>
 </tr>
@@ -119,11 +122,11 @@ I also built and maintain my own AI-powered chatbot, live on my site.
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
+| **🧠 AI Agent Evaluation (RLHF/SFT)** | Contractor via Outlier (Scale AI). Evaluate agent trajectories in simulated tool-use environments, design grounded test prompts, and write evidence-based assessments feeding RLHF/SFT pipelines. | `SQL` `Prompt Eng` `Agent Eval` `RLHF/SFT` |
 | **🌐 [kousharezaei.dev](https://www.kousharezaei.dev)** | Personal platform with AI chatbot, multilingual support, auth system, and admin dashboard. Dockerized microservices with zero-downtime deployment. | `Next.js` `Django` `Docker` `PostgreSQL` `Redis` `Nginx` |
-| **🤖 [KoushaAI](https://www.kousharezaei.dev/en/ai)** | Custom AI assistant built on Anthropic's Claude API with streaming responses, conversation history, file uploads, and folder organization. | `Django` `Anthropic API` `R2 Storage` `WebSocket` |
+| **🤖 [AxionAI](https://www.kousharezaei.dev/en/ai)** | Production AI SaaS with real-time streaming, multi-provider AI (Anthropic, OpenAI, Groq), 2FA auth, tier-based billing, and zero-downtime Docker deployment. | `Django` `Next.js` `PostgreSQL` `Redis` `Docker` |
 | **🔐 [Network Scanner](https://github.com/Koi725/network_scanner)** | CLI tool for network reconnaissance, port scanning, and service enumeration. | `Python` `Nmap` `Scapy` |
 | **📊 [Job Tracker Pro](https://github.com/Koi725/Advanced-Job_tracker-py)** | Full-featured CLI application with analytics, exports, and tracking. | `Python` `SQLite` `Rich` |
-| **⚙️ [Multi-Role Auth](https://github.com/Koi725/multi-role-auth-php)** | Enterprise-grade authentication with RBAC and security best practices. | `PHP` `Laravel` `MySQL` |
 
 </div>
 
@@ -131,10 +134,10 @@ I also built and maintain my own AI-powered chatbot, live on my site.
 
 ## Current Focus
 
+- 🤖 AI agent evaluation, prompt engineering, and RLHF/SFT data quality
 - 🔧 Building AI-powered products with real-world utility
 - 🔐 Implementing security-first architecture in every project
 - ☁️ Scaling containerized infrastructure on cloud
-- 📊 Data engineering with Trino and distributed storage
 
 ---
 
@@ -147,11 +150,11 @@ Always open to collaboration.
 
 [![Portfolio](https://img.shields.io/badge/kousharezaei.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kousharezaei.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Koi725)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351910856484)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kousharezaei)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kousha.rezaei@ua.pt)
 
----
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Koi725&color=6366F1&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Koi725&color=22D3EE&style=for-the-badge&label=Profile+Views" />
 
 </div>
