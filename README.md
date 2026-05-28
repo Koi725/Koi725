@@ -20,7 +20,7 @@
 
 ## About
 
-I build production-grade web platforms from frontend to infrastructure with a security-first mindset, and I work hands-on with AI training and evaluation. Based in Portugal, I work across the full stack — React, Next.js, Python, Django, FastAPI, Docker, and cloud — plus AI integration, agent evaluation, and data engineering with tools like Trino and S3.
+I build production-grade web platforms from frontend to infrastructure with a security-first mindset, and I work hands-on with AI training and evaluation. Based in Portugal, I work across the full stack React, Next.js, Python, Django, FastAPI, Docker, and cloud plus AI integration, agent evaluation, and data engineering with tools like Trino and S3.
 
 I'm the founder of **AxionAI**, a production AI SaaS, and I contract on **AI agent evaluation (RLHF/SFT)** through Outlier (Scale AI). I also built and maintain my own AI-powered chatbot, live on my site.
 
