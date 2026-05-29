@@ -124,7 +124,7 @@ I'm the founder of **AxionAI**, a production AI SaaS, and I contract on **AI age
 |:--------|:------------|:------|
 | **🧠 AI Agent Evaluation (RLHF/SFT)** | Contractor via Outlier (Scale AI). Evaluate agent trajectories in simulated tool-use environments, design grounded test prompts, and write evidence-based assessments feeding RLHF/SFT pipelines. | `SQL` `Prompt Eng` `Agent Eval` `RLHF/SFT` |
 | **🌐 [kousharezaei.dev](https://www.kousharezaei.dev)** | Personal platform with AI chatbot, multilingual support, auth system, and admin dashboard. Dockerized microservices with zero-downtime deployment. | `Next.js` `Django` `Docker` `PostgreSQL` `Redis` `Nginx` |
-| **🤖 [AxionAI](https://www.kousharezaei.dev/en/ai)** | Production AI SaaS with real-time streaming, multi-provider AI (Anthropic, OpenAI, Groq), 2FA auth, tier-based billing, and zero-downtime Docker deployment. | `Django` `Next.js` `PostgreSQL` `Redis` `Docker` |
+| **🤖 [AxionAI](https://www.kousharezaei.dev/en/ai)** | Production AI SaaS with real-time streaming. `Django` `Next.js` `PostgreSQL` `Redis` `Docker` |
 | **🔐 [Network Scanner](https://github.com/Koi725/network_scanner)** | CLI tool for network reconnaissance, port scanning, and service enumeration. | `Python` `Nmap` `Scapy` |
 | **📊 [Job Tracker Pro](https://github.com/Koi725/Advanced-Job_tracker-py)** | Full-featured CLI application with analytics, exports, and tracking. | `Python` `SQLite` `Rich` |
 
