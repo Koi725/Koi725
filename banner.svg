@@ -58,7 +58,7 @@
     <animate attributeName="opacity" values="0;1" dur="0.8s" begin="1s" fill="freeze"/>
   </text>
 
-  <text x="92" y="262" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#94a3b8" opacity="0">Building secure, intelligent products — from frontend to infrastructure.
+  <text x="92" y="262" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#94a3b8" opacity="0">Building secure, intelligent products from frontend to infrastructure.
     <animate attributeName="opacity" values="0;1" dur="0.8s" begin="1.3s" fill="freeze"/>
   </text>
 
