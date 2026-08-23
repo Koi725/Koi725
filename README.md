@@ -1,4 +1,78 @@
- 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         BANNER                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="./banner.svg" alt="Kousha Rezaei — Full-Stack · AI · Data Engineer" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://kousharezaei.dev">
+    <img src="https://img.shields.io/badge/Portfolio-kousharezaei.dev-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kousha-rezaei">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hello@kousharezaei.dev">
+    <img src="https://img.shields.io/badge/Email-Reach_out-a78bfa?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Based_in-Portugal_🇵🇹-0d1117?style=for-the-badge"/>
+</p>
+
+<!-- ⚠️ VERIFY the LinkedIn URL and email above before committing -->
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         INTRO                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> whoami`
+
+```python
+class KoushaRezaei:
+    """Full-stack engineer who went deep on AI and big-data infrastructure."""
+
+    def __init__(self):
+        self.roles     = ["Full-Stack Engineer", "AI Engineer", "Data Engineer"]
+        self.location  = "Portugal 🇵🇹"
+        self.focus     = "Building the whole system — from data pipeline to product"
+        self.mindset   = ["security-first", "production-ready", "no shortcuts"]
+
+    def what_makes_me_different(self):
+        # Most engineers pick one lane. I build across three.
+        return (
+            "I take an idea from a raw data stream, through distributed "
+            "pipelines and AI, all the way to a polished product a user "
+            "actually touches — designed, built, and deployed solo."
+        )
+```
+
+I'm a full-stack developer who kept going — deep into **AI engineering** and **big-data infrastructure**. That combination is the point: I can architect a lakehouse *and* ship the frontend that sits on top of it. Fewer handoffs, one coherent system, built end to end.
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    WHAT I ACTUALLY DO                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> what_i_do`
+
+┌─────────────────────────────────────────────────────────────────┐
+│ │
+│ DATA → AI → PRODUCT │
+│ ──── ──── ── ─── ─────── │
+│ ingest embed interface │
+│ transform reason experience │
+│ model generate ship │
+│ │
+│ Spark · Kafka LLMs · RAG Next.js · React │
+│ Airflow · dbt Agents Django · FastAPI │
+│ Iceberg · Trino Prompt Eng. Docker · K8s · AWS │
+│ │
+└─────────────────────────────────────────────────────────────────┘
+
+
 | Domain | What I build |
 |:--|:--|
 | **🧱 Data Engineering** | Medallion-architecture pipelines (Bronze → Silver → Gold), batch + streaming ingestion, lakehouse modeling, and analytics-ready datasets at scale. |
