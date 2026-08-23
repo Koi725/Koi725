@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="./banner.svg" alt="Kousha Rezaei — Full-Stack, AI and Data Engineer" width="100%" />
+  <img src="./banner.svg" alt="Kousha Rezaei Full-Stack, AI and Data Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 <h3 align="center">DATA &nbsp;→&nbsp; AI &nbsp;→&nbsp; PRODUCT</h3>
 
 <p align="center">
-  I build production systems across the stack — from distributed data pipelines and AI infrastructure<br />
+  I build production systems across the stack from distributed data pipelines and AI infrastructure<br />
   to secure APIs and interfaces people actually enjoy using.
 </p>
 
@@ -144,7 +144,7 @@ flowchart LR
 
 ## `> featured_work`
 
-### AXION — a private AI assistant, built end to end
+### AXION a private AI assistant, built end to end
 
 **AXION** is an ad-free AI product I designed, engineered, and shipped across the full stack: product interface, backend services, AI orchestration, persistence, and production infrastructure.
 
@@ -240,7 +240,7 @@ preferences:
 
 ## `> connect`
 
-I am interested in ambitious engineering work where **data, intelligent systems, and real products meet** — especially remote roles and collaborations across full-stack, AI, and data engineering.
+I am interested in ambitious engineering work where **data, intelligent systems, and real products meet** especially remote roles and collaborations across full-stack, AI, and data engineering.
 
 <p align="center">
   <a href="https://kousharezaei.dev">
