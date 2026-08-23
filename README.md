@@ -1,34 +1,39 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         BANNER                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--
+  Kousha Rezaei — GitHub Profile README
+  The banner.svg file is expected to remain beside this README in the profile repository.
+-->
 
 <p align="center">
-  <img src="./banner.svg" alt="Kousha Rezaei — Full-Stack · AI · Data Engineer" width="100%"/>
-</p>
-
- <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       HERO / POSITIONING                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Full-Stack+%C3%97+AI+%C3%97+Data+Engineering;From+raw+events+to+production+products.;Distributed+systems.+LLMs.+Interfaces.;I+build+the+whole+thing."
-    alt="Typing SVG"
-  />
+  <img src="./banner.svg" alt="Kousha Rezaei — Full-Stack, AI and Data Engineer" width="100%" />
 </p>
 
 <p align="center">
-  <strong>DATA → AI → PRODUCT</strong>
+  <a href="https://kousharezaei.dev">
+    <img src="https://img.shields.io/badge/Portfolio-kousharezaei.dev-8B5CF6?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/kousha-rezaei">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hello@kousharezaei.dev">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-A78BFA?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Based_in-Portugal-111827?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Based in Portugal" />
 </p>
 
 <p align="center">
-  Building production systems across the stack — from distributed data pipelines and AI
-  infrastructure to the APIs and interfaces people actually use.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2600&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;random=false&amp;width=850&amp;height=45&amp;lines=Full-Stack+%C3%97+AI+%C3%97+Data+Engineering;From+raw+events+to+production+products;Distributed+systems.+LLMs.+Interfaces;One+coherent+system%2C+end+to+end" alt="Full-Stack, AI and Data Engineering" />
 </p>
 
-<br/>
+<h3 align="center">DATA &nbsp;→&nbsp; AI &nbsp;→&nbsp; PRODUCT</h3>
+
+<p align="center">
+  I build production systems across the stack — from distributed data pipelines and AI infrastructure<br />
+  to secure APIs and interfaces people actually enjoy using.
+</p>
+
+<p align="center">
+  <code>architecture</code>&nbsp;·&nbsp;<code>engineering</code>&nbsp;·&nbsp;<code>delivery</code>&nbsp;·&nbsp;<code>operations</code>
+</p>
 
 ---
 
@@ -36,384 +41,223 @@
 
 ```python
 class KoushaRezaei:
-    def __init__(self):
-        self.roles = (
-            "Full-Stack Engineer",
-            "AI Engineer",
-            "Data Engineer",
-        )
-
-        self.location = "Portugal 🇵🇹"
-
-        self.interests = {
-            "data": "distributed pipelines & lakehouse architecture",
-            "ai": "LLMs, RAG, agents & intelligent products",
-            "backend": "secure APIs & production services",
-            "frontend": "interfaces humans actually enjoy using",
-        }
+    location = "Portugal"
+    disciplines = ("full-stack", "AI", "data engineering")
 
     def build(self):
-        return "idea → architecture → data → intelligence → product → production"
+        return "raw data → reliable systems → intelligent product"
 
-    def engineering_philosophy(self):
-        return "Own the system. Understand the failure modes. Ship it properly."
-I started in full-stack engineering and kept going deeper.
-Into distributed data systems.
-Into AI infrastructure.
-Into production architecture.
-Today, I work across all three.
-That means I can move from a Kafka event or raw dataset to a lakehouse, expose it through a secure API, add an LLM or agent layer, and still build the product sitting on top of it.
-Fewer handoffs. Less context lost. One coherent system.
-I like abstraction. I just prefer knowing what it is abstracting.
+    def engineering_style(self):
+        return {
+            "architecture": "clean",
+            "security": "built in",
+            "operations": "observable",
+            "delivery": "production-ready",
+        }
+```
 
+I started in **full-stack engineering** and kept going deeper: into distributed data systems, AI infrastructure, and production architecture.
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ENGINEERING MAP                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+Today I work across the boundaries between those disciplines. I can take a raw event or dataset, move and model it through a reliable pipeline, expose it through a secure service, add an LLM or agent layer, and build the product that sits on top.
 
-> engineering_map
-<table>
-<tr>
-<td width="33%" valign="top">
+**Fewer handoffs. Less context lost. One coherent system.**
 
-🧱 Data
-Move it. Model it. Trust it.
-- Batch + streaming ingestion
-- Medallion architecture
-- Lakehouse systems
-- ETL / ELT
-- Data modeling
-- Analytics layers
-- Distributed processing
-- Data quality
-</td>
+> I like abstractions. I just prefer knowing what they are abstracting.
 
-<td width="33%" valign="top">
+---
 
-🤖 Intelligence
-Retrieve it. Reason over it.
-- LLM applications
-- Retrieval-Augmented Generation
-- AI agents
-- Tool use
-- Memory systems
-- Embeddings
-- Prompt engineering
-- Model integration
-</td>
+## `> engineering_map`
 
-<td width="33%" valign="top">
+| Layer | What I build | Engineering focus |
+|:--|:--|:--|
+| **Data** | Batch and streaming pipelines, lakehouse platforms, transformation layers, analytics-ready datasets | Reliability, lineage, data quality, scalability |
+| **Intelligence** | RAG systems, agents, tool use, memory, structured generation, model integrations | Grounding, evaluation, safety, useful behavior |
+| **Backend** | APIs, application services, async workloads, auth, caching, persistence | Clear boundaries, security, performance, observability |
+| **Product** | Responsive web applications and AI-native interfaces | Accessibility, speed, understandable UX, maintainability |
+| **Platform** | Containers, cloud infrastructure, reverse proxies, CI/CD, Linux operations | Reproducibility, hardening, recovery, sane operational cost |
 
-⚡ Product
-Expose it. Ship it. Operate it.
-- APIs & backend services
-- Web applications
-- Authentication
-- Async workloads
-- Caching
-- Containers
-- Cloud deployment
-- Monitoring & security
-</td>
-</tr>
-</table>
+```mermaid
+flowchart LR
+    A[Sources<br/>APIs · Events · Files] --> B[Data Platform<br/>Kafka · Spark · Airflow]
+    B --> C[Lakehouse<br/>Iceberg · dbt · Trino]
+    C --> D[Intelligence<br/>RAG · Agents · LLMs]
+    D --> E[Services<br/>Django · FastAPI]
+    E --> F[Product<br/>Next.js · React]
+    F --> G[Production<br/>Docker · AWS · Linux]
+    G -. telemetry .-> B
+    G -. feedback .-> D
+```
 
-
-                    ┌─────────────────────────────────────────┐
-                    │              THE SYSTEM                 │
-                    └─────────────────────────────────────────┘
-
-      DATA                       INTELLIGENCE                    PRODUCT
-       │                              │                            │
-       ▼                              ▼                            ▼
-
-  Kafka / APIs ──────▶ Lakehouse ──────▶ RAG / Agents ──────▶ APIs / Web
-       │                   │                  │                    │
-       ▼                   ▼                  ▼                    ▼
-   Airflow               Spark              LLMs              Next.js
-     dbt                 Iceberg          Embeddings            React
-                         Trino             Memory             TypeScript
-                           │                  │                    │
-                           └──────────┬───────┴──────────┬─────────┘
-                                      ▼                  ▼
-                                PostgreSQL / Redis   Docker / K8s
-                                      │                  │
-                                      └─────────▶ AWS / Linux
 <p align="center">
-  <sub>
-    Somewhere in there, inevitably, there is a YAML file.
-  </sub>
+  <sub>The boxes are the easy part. The arrows are where engineering happens.</sub>
 </p>
 
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         WHAT I BUILD                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## `> stack --grouped`
 
-> what_i_build
-	Domain	What that means in practice
-🧱	Data Engineering	Production batch and streaming pipelines, Bronze → Silver → Gold architectures, lakehouse modeling, orchestration, transformation, and analytics-ready datasets.
-🤖	AI Engineering	LLM-powered applications with RAG, agents, tool calling, structured outputs, streaming inference, embeddings, and persistent memory.
-🐍	Backend Engineering	Secure APIs and services with Django, DRF and FastAPI — backed by PostgreSQL, Redis, async workers, caching, and sane architecture.
-🎨	Frontend Engineering	Fast, responsive applications with Next.js, React and TypeScript. The backend can be complicated; the interface should not feel complicated.
-☁️	Platform & DevOps	Docker, Kubernetes, Nginx, Linux, AWS and CI/CD — deploying the thing is part of building the thing.
-🔐	Security	Authentication, authorization, secrets management, OWASP awareness, infrastructure hardening, and offensive-security thinking.
+### Languages & application engineering
 
-
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           TOOLBOX                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-> stack --verbose
-01 / core
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,typescript,react,nextjs,tailwind&perline=9" alt="Core stack" />
-</p>
-
-02 / data infrastructure
 <p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Iceberg-1B72BE?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=111111" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,django,fastapi,react,nextjs,tailwind&amp;perline=8" alt="Python, TypeScript, JavaScript, Django, FastAPI, React, Next.js and Tailwind CSS" />
 </p>
 
-Lakehouse · Medallion Architecture · Batch Processing · Streaming · ETL / ELT · Data Modeling
-03 / artificial intelligence
+`REST APIs` · `Authentication` · `Async workloads` · `Caching` · `Responsive UI` · `Accessible interfaces`
+
+### Data systems
+
 <p>
-  <img src="https://img.shields.io/badge/LLM%20Systems-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge&logo=semanticweb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embeddings-A78BFA?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool%20Use-7C3AED?style=for-the-badge&logo=dependabot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&amp;logo=apachespark&amp;logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&amp;logo=apacheairflow&amp;logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Apache_Iceberg-1B72BE?style=flat-square&amp;logo=apache&amp;logoColor=white" alt="Apache Iceberg" />
+  <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&amp;logo=trino&amp;logoColor=white" alt="Trino" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&amp;logo=clickhouse&amp;logoColor=111111" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&amp;logo=dbt&amp;logoColor=white" alt="dbt" />
 </p>
 
-LLM APIs · RAG · Agents · Tool Calling · Memory · Prompt Engineering · Structured Generation
-04 / infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux,git,github,bash&perline=8" alt="Infrastructure stack" />
-</p>
+`Lakehouse architecture` · `Bronze / Silver / Gold` · `Batch + streaming` · `ETL / ELT` · `Data modeling` · `Data quality`
 
-Docker · Kubernetes · AWS · Nginx · Linux · CI/CD · Git · Shell
-05 / security
+### AI engineering
+
 <p>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security%20First-111827?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Hardening-1F2937?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Penetration%20Testing-374151?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Systems-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="LLM systems" />
+  <img src="https://img.shields.io/badge/RAG-4F46E5?style=flat-square&amp;logo=semanticweb&amp;logoColor=white" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square&amp;logo=probot&amp;logoColor=white" alt="AI agents" />
+  <img src="https://img.shields.io/badge/Tool_Use-8B5CF6?style=flat-square&amp;logo=dependabot&amp;logoColor=white" alt="AI tool use" />
+  <img src="https://img.shields.io/badge/Embeddings-A78BFA?style=flat-square&amp;logo=huggingface&amp;logoColor=111111" alt="Embeddings" />
 </p>
 
+`Retrieval` · `Agents` · `Tool calling` · `Streaming` · `Memory` · `Structured outputs` · `Prompt engineering`
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         FEATURED WORK                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### Databases, infrastructure & security
 
-> featured_work
-🌌 AXION
-AI assistant — designed, engineered and shipped end to end.
-AXION is a private AI product I built across the entire stack: product design, frontend, backend, AI orchestration and infrastructure.
-User
-  │
-  ▼
-Next.js
-  │
-  ▼
-Django API
-  ├──▶ LLM orchestration
-  ├──▶ Web search
-  ├──▶ RAG
-  ├──▶ Code execution
-  ├──▶ User memory
-  │
-  ├──▶ PostgreSQL
-  └──▶ Redis
-        │
-        ▼
- Docker + Nginx
-Highlights
-- ⚡ Streaming AI conversations
-- 🌐 Web-connected responses
-- 🧠 Persistent per-user memory
-- 📚 Retrieval-Augmented Generation
-- 🛠️ Tool and code execution
-- 🔐 Private, authentication-aware architecture
-- 🎛️ Custom animated product interface
-- 🐳 Containerized production deployment
-Stack
-Next.js · React · TypeScript · Django · PostgreSQL · Redis · Docker · Nginx
-No tracking. No ads. Just answers.
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,aws,nginx,linux,git,github,bash&amp;perline=10" alt="PostgreSQL, Redis, Docker, Kubernetes, AWS, Nginx, Linux, Git, GitHub and Bash" />
+</p>
 
-→ Explore AXION
+`PostgreSQL` · `Redis` · `Docker` · `Kubernetes` · `AWS` · `Nginx` · `Linux` · `CI/CD` · `OWASP` · `System hardening`
 
-🧱 Lakehouse & Data Platform Engineering
-Designing data systems that turn raw events into reliable, queryable, analytics-ready information.
-                   ┌──────────────┐
-                   │ Raw Sources  │
-                   └──────┬───────┘
-                          │
-               Kafka / Batch ingestion
-                          │
-                          ▼
-┌───────────────────────────────────────────────────────────────┐
-│                         LAKEHOUSE                             │
-│                                                               │
-│   BRONZE                SILVER                 GOLD            │
-│   raw events     ───▶   validated      ───▶   business-ready │
-│                         transformed            analytics       │
-└───────────────────────────────────────────────────────────────┘
-        │                    │                     │
-      Spark                dbt                   Trino
-        │                    │                     │
-        └──────────────── Iceberg ─────────────────┘
-                             │
-                             ▼
-                       BI / APIs / AI
-Engineering focus
-Spark · Kafka · Airflow · Iceberg · Trino · ClickHouse · dbt
-- Distributed processing
-- Streaming + batch ingestion
-- Data orchestration
-- Lakehouse architecture
-- Transformation layers
-- Query optimization
-- Analytics serving
-Raw data is just production data that has not suffered enough yet.
+> Somewhere in the system, inevitably, there is a YAML file.
 
+---
 
-🔐 Security Research
-I also spend time breaking things — with permission.
-Security research influences how I build production systems: threat modeling, authentication, authorization, secrets management, attack-surface reduction and infrastructure hardening are considered during architecture rather than after deployment.
-OWASP · Web Security · Bug Bounty · Penetration Testing · Linux Hardening
+## `> featured_work`
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HOW I WORK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### AXION — a private AI assistant, built end to end
 
-> cat engineering.md
-+ Understand the system before abstracting it.
+**AXION** is an ad-free AI product I designed, engineered, and shipped across the full stack: product interface, backend services, AI orchestration, persistence, and production infrastructure.
 
-+ Build production-ready, not demo-ready.
+| Capability | Implementation focus |
+|:--|:--|
+| Streaming conversations | Responsive delivery of model output through the application stack |
+| Web search and RAG | Retrieval and grounding for useful, context-aware responses |
+| Tool and code execution | Controlled access to capabilities beyond text generation |
+| Per-user memory | Persistent context tied to authenticated users |
+| Product experience | Custom, animated interface built for focused interaction |
+| Production delivery | Containerized services behind Nginx with PostgreSQL and Redis |
 
-+ Treat observability as part of the feature.
+**Stack:** `Next.js` · `React` · `TypeScript` · `Django` · `PostgreSQL` · `Redis` · `Docker` · `Nginx`
 
-+ Design security into the architecture.
+> **No tracking. No ads. Just answers.**
 
-+ Prefer boring reliability over clever fragility.
+[Explore AXION →](https://kousharezaei.dev)
 
-+ Automate repetitive work.
+<br />
 
-+ Read the logs.
+### Lakehouse & data platform engineering
 
-+ Own the result — not just the ticket.
+Designing systems that turn raw events into reliable, queryable, analytics-ready information.
 
-- "Works on my machine."
+```text
+Sources        Ingestion         Lakehouse layers                  Consumers
+────────       ─────────         ────────────────                  ─────────
+APIs      ┐                    ┌────────┐   ┌────────┐   ┌──────┐
+Events    ├──▶ Kafka / Batch ─▶│ BRONZE │──▶│ SILVER │──▶│ GOLD │──▶ BI / APIs / AI
+Files     ┘                    │  raw   │   │ clean  │   │ ready│
+                              └────────┘   └────────┘   └──────┘
+                                   Spark · Iceberg · dbt · Trino
+```
 
-- Mystery infrastructure nobody wants to touch.
+**Engineering focus:** distributed processing, batch and streaming ingestion, orchestration, transformation, query performance, data quality, and analytics serving.
 
-- Architecture diagrams that have never met the actual codebase.
+**Stack:** `Spark` · `Kafka` · `Airflow` · `Iceberg` · `Trino` · `ClickHouse` · `dbt`
 
-- TODO: add security later.
+<br />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          OPERATING MODE                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### Security-minded engineering
 
-> operating_mode
+I also spend time breaking things — **with permission**.
+
+Security research shapes how I build: threat modeling, authentication, authorization, secrets management, attack-surface reduction, OWASP awareness, and infrastructure hardening are architecture concerns, not release-week decorations.
+
+---
+
+## `> cat engineering-principles.md`
+
+| Principle | In practice |
+|:--|:--|
+| **Production over demos** | Failure modes, recovery, and operational reality matter before launch. |
+| **Security by design** | Identity, permissions, secrets, and attack surface belong in the architecture. |
+| **Observability is a feature** | Logs, metrics, and useful diagnostics are part of a system's interface. |
+| **Abstractions are earned** | Understand the underlying system before hiding its complexity. |
+| **Reliability beats novelty** | Use the simplest architecture that meets the actual requirements. |
+| **Ownership crosses layers** | The work is not finished when a ticket moves columns; it is finished when the outcome works. |
+
+```diff
++ Reproducible deployments
++ Useful documentation
++ Tests around meaningful risk
++ Boring reliability
++ Reading the logs
+
+- "Works on my machine"
+- Distributed systems for problems one process can solve
+- TODO: add security later
+```
+
+---
+
+## `> operating_mode`
+
+```yaml
 engineering:
   architecture: clean
-  security: first-class
+  security: first_class
   abstractions: earned
-  tests: expected
-  documentation: useful
+  systems: observable
   deployments: reproducible
 
-systems:
-  observable: true
-  recoverable: true
-  scalable: when_needed
-  unnecessarily_distributed: false
-
-personal:
+preferences:
+  simple_before_distributed: true
+  production_before_theatre: true
   curiosity: high
-  ownership: high
   tolerance_for_mystery_bugs: low
-  coffee_dependency:
-    status: under_investigation
+  coffee_dependency: under_investigation
+```
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         THE SHORT VERSION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
-> TL;DR
-I build systems across three layers:
-🧱 Data engineering
-Reliable pipelines and infrastructure that turn raw data into usable information.
-🤖 AI engineering
-Intelligent systems that retrieve, reason, remember and act.
-⚡ Full-stack engineering
-Production applications that turn all of that infrastructure into something useful.
-The interesting part is the space between those disciplines.
-That's where I like to work.
+## `> connect`
+
+I am interested in ambitious engineering work where **data, intelligent systems, and real products meet** — especially remote roles and collaborations across full-stack, AI, and data engineering.
 
 <p align="center">
-  <code>raw data</code>
-  &nbsp;→&nbsp;
-  <code>distributed systems</code>
-  &nbsp;→&nbsp;
-  <code>intelligence</code>
-  &nbsp;→&nbsp;
-  <code>product</code>
+  <a href="https://kousharezaei.dev">
+    <img src="https://img.shields.io/badge/Explore_the_portfolio-8B5CF6?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Explore the portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/kousha-rezaei">
+    <img src="https://img.shields.io/badge/Let's_connect-6366F1?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:hello@kousharezaei.dev">
+    <img src="https://img.shields.io/badge/Start_a_conversation-A78BFA?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an email" />
+  </a>
 </p>
 
 <p align="center">
-  <strong>One engineer. Whole system.</strong>
+  <code>raw data</code>&nbsp;→&nbsp;<code>reliable systems</code>&nbsp;→&nbsp;<code>intelligence</code>&nbsp;→&nbsp;<code>product</code>
 </p>
 
-
-<!-- KEEP YOUR EXISTING CONNECT / CONTACT SECTION BELOW THIS LINE -->
-
-### Why this is much stronger
-
-Your original version says **“I do full-stack + AI + data”** in several slightly different ways. This version establishes it once as a brand:
-
-> **DATA → AI → PRODUCT**
-
-and everything underneath proves it.
-
-I also changed the voice from things like:
-
-> “Most engineers pick one lane. I build across three.”
-
-That can accidentally sound self-promotional or like you're comparing yourself to other engineers.
-
-Into:
-
-> **“The interesting part is the space between those disciplines. That's where I like to work.”**
-
-Same message, much more credible.
-
-There are three details I particularly like here:
-
-**1. The humor is dry rather than LinkedIn-humor.**
-
-`Somewhere in there, inevitably, there is a YAML file.`
-
-`Raw data is just production data that has not suffered enough yet.`
-
-`coffee_dependency: status: under_investigation`
-
-Those make you sound like an actual engineer rather than someone who asked AI to add jokes.
-
-**2. The architecture is doing the selling.** Instead of saying *“I know Spark, Kafka, Django, RAG, React...”*, the README demonstrates where those technologies sit in an actual system.
-
-**3. I intentionally removed RLHF/SFT from the primary AI stack.** Unless you've actually trained/fine-tuned models using those techniques, having `RLHF · SFT` as prominent badges can invite technical questions during interviews that you don't need. Your RAG/agent/tool-use/product work is already a stronger and more defensible AI-engineering story.
-
-One more recommendation: **don't add GitHub streak cards, language-percentage cards, trophies, Spotify widgets, six contribution graphs, or profile-view counters.** They are common on flashy profiles, but for the senior/full-stack/data/AI positioning you're aiming for, they would make this version look less premium. SVG animation, icons and badges are well-supported ways to add visual polish without turning the profile into a dashboard. citeturn698856search3turn698856search10
-
-The only external visual dependencies I used are **Shields.io**, **Skill Icons**, and the typing SVG. If you eventually want the truly custom “Hollywood” version, the next level would be making **2–3 custom animated SVG components in your own repository**—for example an animated `DATA → AI → PRODUCT` pipeline and custom dark/light-mode header—so the profile has a visual identity nobody else has rather than depending on generic README widgets. GitHub can render SVG animations, while executable JavaScript is stripped from README content. citeturn698856search1turn698856search4
-
-That would be the version I'd use for your profile.
+<p align="center">
+  <strong>Build the whole system. Understand the trade-offs. Ship it properly.</strong>
+</p>
